@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DDR5</string>
+    <string name="btn_lancamento">Lançamento</string>
+    <string name="btn_confirmar">Confirmar</string>
+</resources>
